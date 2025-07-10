@@ -8,6 +8,7 @@ Your task is to take a close look at how the image is being built. Find the outd
 Sometimes, security is just about making the right choices. Good luck!
 
 ##  How to Run :
+```
 docker build -t challenge-2 .
 docker run --rm challenge-2
-
+```
