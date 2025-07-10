@@ -1,0 +1,2 @@
+docker build -t challenge-5 .
+docker run --rm --cpus=1 --memory=512m challenge-5
